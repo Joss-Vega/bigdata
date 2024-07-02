@@ -42,6 +42,3 @@ Para ejecutar la notebook, sigue estos pasos:
     ```
 
 2. Abre el archivo `notebook_recaudos.ipynb` y ejecuta las celdas para procesar los datos.
-
-## Estructura del Proyecto
-La estructura del proyecto es la siguiente:
